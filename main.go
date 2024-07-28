@@ -21,8 +21,8 @@ type apiConfig struct {
 	DB *database.Queries
 }
 
-func random(){
-    //thasjdfajdksfa
+func random() {
+	//thasjdfajdksfa
 }
 
 //go:embed static/*
