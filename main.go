@@ -21,6 +21,10 @@ type apiConfig struct {
 	DB *database.Queries
 }
 
+func random(){
+    //thasjdfajdksfa
+}
+
 //go:embed static/*
 var staticFiles embed.FS
 
